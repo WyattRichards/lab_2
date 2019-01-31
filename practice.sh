@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 # Author: Wyatt Richards
 # Date: 1/31/2019
 # Script follows here:
